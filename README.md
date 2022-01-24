@@ -1,6 +1,6 @@
 # Flutter-Stripe
 
-A new Flutter project with Flutter, Bloc as a state manager.
+- A new Flutter project with Flutter, Bloc as a state manager.
 
 # Screens
 
